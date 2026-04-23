@@ -5,11 +5,23 @@ I will be sharing the projects I have worked on during my learning journey here 
 Wishing you all the best in your endeavors.
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/ihsancenkiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihsancenkiz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11424356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11424356" height="30" width="40" /></a>
-<a href="https://kaggle.com/ihsncnkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ihsncnkz" height="30" width="40" /></a>
-<a href="https://medium.com/@ihsancenkiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ihsancenkiz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ihsancenkiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihsancenkiz" height="30" width="40" /></a>
+
+<p align="left">
+  <a href="https://linkedin.com/in/ihsancenkiz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/11424356" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/ihsncnkz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@ihsancenkiz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/ihsancenkiz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
